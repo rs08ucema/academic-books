@@ -20,7 +20,7 @@ La URL Base de nuestra API será la siguiente: `<host>:<port>/api/academic-books
 
 NOTA: Utilizar todo lo aprendido durante el curso. POO es mandatorio para diseñar la API.
 
-###Ej: body response (GET lista)
+### Ej: body response (GET lista)
 
 ```
 [
@@ -34,7 +34,7 @@ NOTA: Utilizar todo lo aprendido durante el curso. POO es mandatorio para diseñ
 
 ```
 
-###Ej. body request (POST)
+### Ej. body request (POST)
 ```
 {
 	"purchase_date": "20/05/2022",
